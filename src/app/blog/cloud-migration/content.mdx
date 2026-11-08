@@ -1,0 +1,18 @@
+import { BlogLayout } from "@/components/BlogLayout";
+
+export const meta = {
+  "date": "2026-11-08",
+  "title": "AWS to Azure",
+  "description": "A production cloud migration with zero downtime, plus environment isolation and continuous deployment.",
+  "image": "/images/projects/cloud-migration.png",
+  "tags": [
+    "AWS",
+    "Azure"
+  ]
+};
+
+export default (props) => <BlogLayout meta={meta} {...props} />;
+
+Migrated BabelStream production workloads from AWS to Azure with zero downtime while establishing secrets management, environment isolation, and continuous deployment.
+
+My focus was keeping the live service operating while moving the infrastructure and carrying forward reliable deployment practices.

@@ -1,0 +1,18 @@
+import { BlogLayout } from "@/components/BlogLayout";
+
+export const meta = {
+  "date": "2026-11-08",
+  "title": "AI Call Evaluation",
+  "description": "Repeatable quality evaluation grounded in measurements and kept separate from live customer conversations.",
+  "image": "/images/projects/ai-evaluation.png",
+  "tags": [
+    "Azure AI Foundry",
+    "AI agents"
+  ]
+};
+
+export default (props) => <BlogLayout meta={meta} {...props} />;
+
+Designed an asynchronous call-evaluation system in Azure AI Foundry. Deterministic measurements ground the findings, and specialist agents help interpret quality, latency, and regressions.
+
+The result is structured evaluation against fixed reference calls, outside the live translation path.
