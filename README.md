@@ -4,6 +4,7 @@ Personal portfolio for Robin Treese, a solutions architect in Rochester, NY with
 
 Open to remote solutions architecture, solutions engineering, implementation, and customer-facing AI roles.
 
+- Live site: [robin-treese-portfolio.vercel.app](https://robin-treese-portfolio.vercel.app)
 - Email: [rtreese250@gmail.com](mailto:rtreese250@gmail.com)
 - LinkedIn: [linkedin.com/in/rob-t-19992135](https://www.linkedin.com/in/rob-t-19992135/)
 - BabelStream: [babelstream.ai](https://babelstream.ai)
